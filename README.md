@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LuisFVelasquez
-- 👀 I’m interested in Python programming.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on any Mintic2020 support group...
+- 👀 I’m interested in Python programming, Java , HTML, CCS3
+- 🌱 I´m in 3rd cycle of training in MISION TIC 2022 / UdeA
+- 💞️ I’m looking to collaborate on any Mintic2021 support group...
 - 📫 How to reach me luisvelasquezt@protonmail.com...
 
 <!---
